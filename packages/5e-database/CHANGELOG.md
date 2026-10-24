@@ -5,6 +5,27 @@
 
 * **db:** add pt-BR translations for 2014 monsters ([#1324](https://github.com/5e-bits/5e-srd-api/issues/1324)) ([ba4f2da](https://github.com/5e-bits/5e-srd-api/commit/ba4f2dac03ef6d42520dcd3548214959fd603e47))
 
+## [7.8.2](https://github.com/5e-bits/5e-srd-api/compare/5e-database-v7.8.1...5e-database-v7.8.2) (2026-10-17)
+
+
+### Bug Fixes
+
+* **deps:** bump zod from 4.6.5 to 4.6.7 ([#1394](https://github.com/5e-bits/5e-srd-api/issues/1394)) ([259073e](https://github.com/5e-bits/5e-srd-api/commit/259073ea14abf30ad055ea15da51f038049febbb))
+
+## [7.8.1](https://github.com/5e-bits/5e-srd-api/compare/5e-database-v7.8.0...5e-database-v7.8.1) (2026-10-15)
+
+
+### Bug Fixes
+
+* **db:** use spear in 2024 Sorcerer starting equipment (a) ([#1384](https://github.com/5e-bits/5e-srd-api/issues/1384)) ([5693539](https://github.com/5e-bits/5e-srd-api/commit/569353989602fd9c2c0e722d0d644e4b9bdda41e))
+
+## [7.8.0](https://github.com/5e-bits/5e-srd-api/compare/5e-database-v7.7.0...5e-database-v7.8.0) (2026-10-11)
+
+
+### Features
+
+* **db:** add 2024 russian translations (classes, subclasses, levels, features, proficiencies) ([#1381](https://github.com/5e-bits/5e-srd-api/issues/1381)) ([e7bc45f](https://github.com/5e-bits/5e-srd-api/commit/e7bc45f3d51a9bed30e45fb85425917942de55cd))
+
 ## [7.7.0](https://github.com/5e-bits/5e-srd-api/compare/5e-database-v7.6.0...5e-database-v7.7.0) (2026-10-09)
 
 
