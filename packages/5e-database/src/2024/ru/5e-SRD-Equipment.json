@@ -538,7 +538,9 @@
     "cost": {
       "quantity": 400,
       "unit": "зм"
-    }
+    },
+    "don_time": "5 минут",
+    "doff_time": "1 минута"
   },
   {
     "index": "brewers-supplies",
@@ -1059,7 +1061,9 @@
     "cost": {
       "quantity": 75,
       "unit": "зм"
-    }
+    },
+    "don_time": "10 минут",
+    "doff_time": "5 минут"
   },
   {
     "index": "chain-shirt",
@@ -1079,7 +1083,9 @@
     "cost": {
       "quantity": 50,
       "unit": "зм"
-    }
+    },
+    "don_time": "5 минут",
+    "doff_time": "1 минута"
   },
   {
     "index": "chest",
@@ -2653,7 +2659,9 @@
     "cost": {
       "quantity": 750,
       "unit": "зм"
-    }
+    },
+    "don_time": "5 минут",
+    "doff_time": "1 минута"
   },
   {
     "index": "hand-crossbow",
@@ -2940,7 +2948,9 @@
     "cost": {
       "quantity": 10,
       "unit": "зм"
-    }
+    },
+    "don_time": "5 минут",
+    "doff_time": "1 минута"
   },
   {
     "index": "holy-water",
@@ -3354,7 +3364,9 @@
     "cost": {
       "quantity": 10,
       "unit": "зм"
-    }
+    },
+    "don_time": "1 минута",
+    "doff_time": "1 минута"
   },
   {
     "index": "leatherworkers-tools",
@@ -4277,7 +4289,9 @@
     "cost": {
       "quantity": 5,
       "unit": "зм"
-    }
+    },
+    "don_time": "1 минута",
+    "doff_time": "1 минута"
   },
   {
     "index": "painters-supplies",
@@ -4638,7 +4652,9 @@
     "cost": {
       "quantity": 1500,
       "unit": "зм"
-    }
+    },
+    "don_time": "10 минут",
+    "doff_time": "5 минут"
   },
   {
     "index": "playing-cards",
@@ -5106,7 +5122,9 @@
     "cost": {
       "quantity": 30,
       "unit": "зм"
-    }
+    },
+    "don_time": "10 минут",
+    "doff_time": "5 минут"
   },
   {
     "index": "robe",
@@ -5194,7 +5212,9 @@
     "cost": {
       "quantity": 50,
       "unit": "зм"
-    }
+    },
+    "don_time": "5 минут",
+    "doff_time": "1 минута"
   },
   {
     "index": "scholars-pack",
@@ -6040,7 +6060,9 @@
     "cost": {
       "quantity": 200,
       "unit": "зм"
-    }
+    },
+    "don_time": "10 минут",
+    "doff_time": "5 минут"
   },
   {
     "index": "sprig-of-mistletoe",
@@ -6137,7 +6159,9 @@
     "cost": {
       "quantity": 45,
       "unit": "зм"
-    }
+    },
+    "don_time": "1 минута",
+    "doff_time": "1 минута"
   },
   {
     "index": "tent",

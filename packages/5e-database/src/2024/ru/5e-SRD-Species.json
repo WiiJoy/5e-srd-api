@@ -5,6 +5,18 @@
     "type": "Гуманоид",
     "size": "Средний",
     "speed": 30,
+    "traits": [
+      {
+        "index": "darkvision-60",
+        "url": "/api/2024/traits/darkvision-60",
+        "name": "Тёмное зрение (60 футов)"
+      },
+      {
+        "index": "draconic-flight",
+        "url": "/api/2024/traits/draconic-flight",
+        "name": "Драконий полёт"
+      }
+    ],
     "subspecies": [
       {
         "index": "draconic-ancestor-black",
@@ -55,18 +67,6 @@
         "index": "draconic-ancestor-white",
         "url": "/api/2024/subspecies/draconic-ancestor-white",
         "name": "Драконий предок: Белый"
-      }
-    ],
-    "traits": [
-      {
-        "index": "darkvision-60",
-        "url": "/api/2024/traits/darkvision-60",
-        "name": "Тёмное зрение (60 футов)"
-      },
-      {
-        "index": "draconic-flight",
-        "url": "/api/2024/traits/draconic-flight",
-        "name": "Драконий полёт"
       }
     ]
   },
@@ -323,6 +323,24 @@
     "index": "tiefling",
     "name": "Тифлинг",
     "type": "Гуманоид",
+    "size_options": {
+      "desc": "Выберите размер, когда вы выбираете эту породу.",
+      "choose": 1,
+      "type": "size_categories",
+      "from": {
+        "option_set_type": "options_array",
+        "options": [
+          {
+            "option_type": "size",
+            "size": "Маленький"
+          },
+          {
+            "option_type": "size",
+            "size": "Средний"
+          }
+        ]
+      }
+    },
     "speed": 30,
     "traits": [
       {

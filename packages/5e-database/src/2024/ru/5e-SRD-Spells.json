@@ -80,7 +80,8 @@
 			"damage_at_slot_level": {
 				"0": "1d10"
 			}
-		}
+		},
+		"attack_type": "Ближний бой"
 	},
 	{
 		"index": "dancing-lights",
@@ -174,7 +175,8 @@
 			"damage_at_slot_level": {
 				"0": "1d10"
 			}
-		}
+		},
+		"attack_type": "Дальний бой"
 	},
 	{
 		"index": "elementalism",
@@ -247,7 +249,8 @@
 			"damage_at_slot_level": {
 				"0": "1d10"
 			}
-		}
+		},
+		"attack_type": "Дальний бой"
 	},
 	{
 		"index": "guidance",
@@ -526,7 +529,8 @@
 			"damage_at_slot_level": {
 				"0": "1d12"
 			}
-		}
+		},
+		"attack_type": "Дальний бой"
 	},
 	{
 		"index": "prestidigitation",
@@ -599,7 +603,8 @@
 			"damage_at_slot_level": {
 				"0": "1d8"
 			}
-		}
+		},
+		"attack_type": "Дальний бой"
 	},
 	{
 		"index": "ray-of-frost",
@@ -638,7 +643,8 @@
 			"damage_at_slot_level": {
 				"0": "1d8"
 			}
-		}
+		},
+		"attack_type": "Дальний бой"
 	},
 	{
 		"index": "resistance",
@@ -762,7 +768,8 @@
 			"damage_at_slot_level": {
 				"0": "1d8"
 			}
-		}
+		},
+		"attack_type": "Ближний бой"
 	},
 	{
 		"index": "sorcerous-burst",
@@ -782,7 +789,8 @@
 				"name": "Чародей",
 				"url": "/api/2024/classes/sorcerer"
 			}
-		]
+		],
+		"attack_type": "Дальний бой"
 	},
 	{
 		"index": "spare-the-dying",
@@ -850,7 +858,8 @@
 			"damage_at_slot_level": {
 				"0": "1d8"
 			}
-		}
+		},
+		"attack_type": "Дальний бой"
 	},
 	{
 		"index": "thaumaturgy",
@@ -1200,7 +1209,8 @@
 			"В",
 			"С",
 			"М"
-		]
+		],
+		"attack_type": "Дальний бой"
 	},
 	{
 		"index": "color-spray",
@@ -2030,7 +2040,8 @@
 			"damage_at_slot_level": {
 				"1": "4d6"
 			}
-		}
+		},
+		"attack_type": "Дальний бой"
 	},
 	{
 		"index": "healing-word",
@@ -2283,7 +2294,8 @@
 			"damage_at_slot_level": {
 				"1": "1d10"
 			}
-		}
+		},
+		"attack_type": "Дальний бой"
 	},
 	{
 		"index": "identify",
@@ -2648,7 +2660,8 @@
 			"damage_at_slot_level": {
 				"1": "2d8"
 			}
-		}
+		},
+		"attack_type": "Дальний бой"
 	},
 	{
 		"index": "sanctuary",
@@ -2998,7 +3011,8 @@
 			"damage_at_slot_level": {
 				"2": "4d4"
 			}
-		}
+		},
+		"attack_type": "Дальний бой"
 	},
 	{
 		"index": "aid",
@@ -3084,6 +3098,7 @@
 		"material": "кусочек еды",
 		"duration": "24 часа",
 		"description": "Выберите Крошечное животное, которое вы видите в пределах дистанции, например, белку, воробья или лису. Вы произносите послание длиной не более 25 слов и указываете получателя, который должен быть вам знаком. Целевое животное идёт к указанному получателю по кратчайшему маршруту и садится перед ним. Если животное прибудет к получателю, оно передаёт послание, повторяя его дословно и даже передавая интонацию, как птица или зверь смогут.\n  Заклинание оканчивается, когда животное передаст послание, или через 24 часа, в зависимости от того, что наступит раньше. Вы можете сотворить это заклинание снова, чтобы отправить другое послание тем же получателям тем же или другим животным.",
+		"higher_level": "Длительность заклинания увеличивается на 48 часов за каждый уровень ячейки заклинания выше 2.",
 		"school": {
 			"index": "enchantment",
 			"name": "Очарование",
@@ -3713,7 +3728,8 @@
 			"В",
 			"С",
 			"М"
-		]
+		],
+		"attack_type": "Ближний бой"
 	},
 	{
 		"index": "flaming-sphere",
@@ -4631,7 +4647,8 @@
 			"damage_at_slot_level": {
 				"2": "2d6"
 			}
-		}
+		},
+		"attack_type": "Дальний бой"
 	},
 	{
 		"index": "see-invisibility",
@@ -4884,7 +4901,8 @@
 		"components": [
 			"В",
 			"С"
-		]
+		],
+		"attack_type": "Ближний бой"
 	},
 	{
 		"index": "suggestion",
@@ -6496,7 +6514,8 @@
 			"damage_at_slot_level": {
 				"3": "3d6"
 			}
-		}
+		},
+		"attack_type": "Ближний бой"
 	},
 	{
 		"index": "water-breathing",
@@ -7977,7 +7996,8 @@
 			"damage_at_slot_level": {
 				"5": "5d8"
 			}
-		}
+		},
+		"attack_type": "Ближний бой"
 	},
 	{
 		"index": "awaken",
@@ -9364,7 +9384,8 @@
 		"components": [
 			"В",
 			"С"
-		]
+		],
+		"attack_type": "Ближний бой"
 	},
 	{
 		"index": "contingency",
@@ -10283,7 +10304,8 @@
 			"В",
 			"С",
 			"М"
-		]
+		],
+		"attack_type": "Ближний бой"
 	},
 	{
 		"index": "conjure-celestial",
