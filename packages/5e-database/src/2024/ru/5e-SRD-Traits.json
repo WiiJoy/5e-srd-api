@@ -837,6 +837,34 @@
     ]
   },
   {
+    "index": "lineage-spell-druidcraft",
+    "name": "Искусство друидов",
+    "description": "Вы знаете заклинание Искусство друидов.",
+    "spells": [
+      {
+        "spell": {
+          "index": "druidcraft",
+          "name": "Искусство друидов",
+          "url": "/api/2024/spells/druidcraft"
+        }
+      }
+    ],
+    "species": [
+      {
+        "index": "elf",
+        "url": "/api/2024/species/elf",
+        "name": "Эльф"
+      }
+    ],
+    "subspecies": [
+      {
+        "index": "elven-lineage-wood-elf",
+        "url": "/api/2024/subspecies/elven-lineage-wood-elf",
+        "name": "Эльфийский род: Лесной эльф"
+      }
+    ]
+  },
+  {
     "index": "lineage-spell-detect-magic",
     "name": "Обнаружение магии",
     "description": "Вы знаете заклинание Обнаружение магии.",
